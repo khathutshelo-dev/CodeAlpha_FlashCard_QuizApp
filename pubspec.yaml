@@ -1,0 +1,27 @@
+name: flashcard_quiz_app
+description: >
+  The Flashcard Quiz App is a study tool designed to help learners improve memory retention 
+  through interactive flashcards. Each flashcard contains a question on the front and an answer 
+  on the back, which users can reveal by tapping the “Show Answer” button. Users can easily 
+  navigate through their study material using “Next” and “Previous” buttons, allowing smooth 
+  movement between cards. The app includes a clean, simple user interface that ensures a 
+  distraction-free and user-friendly experience on any device.
+
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+

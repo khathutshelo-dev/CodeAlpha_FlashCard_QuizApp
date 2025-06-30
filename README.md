@@ -1,3 +1,3 @@
-# flashcard_quiz_app
+The **Flashcard Quiz App** is a study tool designed to help learners improve memory retention through interactive flashcards. Each flashcard contains a question on the front and an answer on the back, which users can reveal by tapping the **“Show Answer”** button. Users can easily navigate through their study material using **“Next”** and **“Previous”** buttons, allowing smooth movement between cards. The app includes a clean, simple user interface that ensures a distraction-free and user-friendly experience on any device.
 
-A new Flutter project.
+One of the standout features of this app is full **customization**—users can **add**, **edit**, and **delete flashcards** to tailor the content to their learning needs. Whether you're preparing for an exam, reviewing vocabulary, or practicing interview questions, this app offers the flexibility to build your own personalized flashcard decks. Built using Flutter and Dart, it runs smoothly on Android and iOS, making it a powerful tool for self-paced learning anywhere, anytime.
